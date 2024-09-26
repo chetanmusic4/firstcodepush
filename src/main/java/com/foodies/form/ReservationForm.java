@@ -73,7 +73,7 @@ public class ReservationForm {
 
 
 
-		this.message = message;
+		// this.message = message;
 	}
 
 }
